@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96" started-at="2016-10-24T07:25:47Z" finished-at="2016-10-24T07:25:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96" started-at="2016-10-24T07:25:47Z" finished-at="2016-10-24T07:25:47Z">
+      <class name="test.stringhandling.NewTest">
+        <test-method status="PASS" signature="TestNull()[pri:0, instance:test.stringhandling.NewTest@27c20538]" name="TestNull" duration-ms="26" started-at="2016-10-24T00:25:47Z" finished-at="2016-10-24T00:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNull -->
+        <test-method status="PASS" signature="TestStringWithCharacters()[pri:0, instance:test.stringhandling.NewTest@27c20538]" name="TestStringWithCharacters" duration-ms="8" started-at="2016-10-24T00:25:47Z" finished-at="2016-10-24T00:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStringWithCharacters -->
+        <test-method status="PASS" signature="TestStringWithNums()[pri:0, instance:test.stringhandling.NewTest@27c20538]" name="TestStringWithNums" duration-ms="4" started-at="2016-10-24T00:25:47Z" finished-at="2016-10-24T00:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStringWithNums -->
+        <test-method status="PASS" signature="TestStringWithSplchars()[pri:0, instance:test.stringhandling.NewTest@27c20538]" name="TestStringWithSplchars" duration-ms="3" started-at="2016-10-24T00:25:47Z" finished-at="2016-10-24T00:25:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStringWithSplchars -->
+      </class> <!-- test.stringhandling.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
